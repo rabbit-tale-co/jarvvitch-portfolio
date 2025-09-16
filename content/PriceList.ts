@@ -1,4 +1,4 @@
-import type { PriceList, PriceTierData } from "@/lib/types";
+import type { PriceTierData } from "@/lib/types";
 
 // Pricelist - sketch
 import sketch_1 from "@/public/pricelist - sketch/IMG_1174.webp";
